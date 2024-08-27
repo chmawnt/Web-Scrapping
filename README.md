@@ -39,4 +39,4 @@ def scrape_article(url):
 
 
 
-print(scrape_article('https://www.tagesschau.de/ausland/bomber-china-russland-100.html'))
+print(scrape_article('https://www.dogonews.com/category/science.html'))
